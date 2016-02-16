@@ -1,0 +1,25 @@
+{
+  "name": "grunt-jade-example",
+  "version": "1.0.0",
+  "description": "Example usage of Grunt Jade",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pra85/Grunt-jade-example.git"
+  },
+  "keywords": [
+    "grunt",
+    "jade",
+    "load"
+  ],
+  "author": "Prayag Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pra85/Grunt-jade-example.git/issues"
+  },
+  "homepage": "https://github.com/pra85/Grunt-jade-example.git#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.15.0",
+    "load-grunt-config": "^0.19.1"
+  }
+}
